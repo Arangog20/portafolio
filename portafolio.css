@@ -30,7 +30,7 @@ body{
 
 .inicio{
     display:  flex;
-    background: url(../../img/mefondoop22.png);
+    background: url(.././img/mefondoop22.png);
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
