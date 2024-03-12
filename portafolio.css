@@ -94,3 +94,17 @@ button{
     font-weight: bold;
     }
 }
+
+.actividades{
+    height: 60vh;
+    background:url(/img/cielo-estrellado_1048-11828.png);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    h1{
+        font-weight: bold;  
+        padding: 1rem;
+    }
+}
