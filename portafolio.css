@@ -74,6 +74,7 @@ body{
 button{
     
     font-size: 15px;
+        font-weight: bolder;
         color: white;
         border-radius: 20px;
         background-color: #0d0e0e6d;
@@ -83,7 +84,6 @@ button{
         padding: 10px 5px ;
         user-select: none;
         transition-duration: 0.4s; 
-        font-weight: bold;
 }
 
 .col-md-3 {
