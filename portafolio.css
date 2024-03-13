@@ -86,24 +86,23 @@ button{
         transition-duration: 0.4s; 
 }
 
-.col-md-3 {
-    a{
-        color: #ffffff;
-    }
-    p{
-    font-weight: bold;
-    }
+
     .actividades{
+        width: 100%;
         height: 60vh;
-        background:url(/img/cielo-estrellado_1048-11828.png);
+        background:url(./img/cielo.jpg);
+        background-size: cover;
         color: white;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        h1{
-            font-weight: bold;  
-            padding: 1rem;
-        }
+    }
+
+    .actividades h1 {
+    
+         font-weight: bold;  
+         padding: 1rem;
+        
     }
 }
